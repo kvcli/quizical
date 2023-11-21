@@ -1,0 +1,27 @@
+/* src/components/QuizComponent.css */
+
+.quiz-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .question{
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #4caf50;
+  }
+  
+  .answer {
+    margin: 5px 0;
+    padding: 10px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .answer.selected {
+    background-color: #4caf50;
+    color: white;
+  }
+  
