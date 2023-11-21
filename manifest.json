@@ -1,0 +1,10 @@
+{
+    "name": "quizical",
+    "short_name": "Short Name",
+    "description": "Description of your app",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000"
+  }
+  
